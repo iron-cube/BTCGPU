@@ -1,6 +1,6 @@
 # Bitcoin Gold
 
-[![Build Status](https://travis-ci.org/BTCGPU/BTCGPU.svg?branch=master)](https://travis-ci.org/BTCGPU/BTCGPU)
+[![Build Status](https://travis-ci.org/iron-cube/BTCGPU.svg?branch=master)](https://travis-ci.org/iron-cube/BTCGPU)
 
 Bitcoin Gold (codename BTCGPU) began as a fork of Bitcoin after block height 491406 on Tue, 24 Oct 2017 01:17:35 GMT and began being mined as a separate chain at block height 491407 on Sun, 12 Nov 2017 13:34:01 GMT.
 
